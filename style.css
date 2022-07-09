@@ -1,0 +1,12 @@
+div {color: red;font-size:100;}
+body {background-color: #d1e4ff;}
+.img-cl{width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        object-fit: cover;}
+.img-fk{width: 100%;
+
+        display: flex;
+        float:right;
+        }
